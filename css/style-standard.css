@@ -17,18 +17,24 @@ header{
 
 #title{
     font-size: 35px;
-    font-weight: bolder;}
-
-.grey{
-    color: grey;
+    font-weight: bolder;
 }
 
 #date{
     font-size: 12px;
 }
 
+.grey{
+    color: grey;
+}
+
+
 #cyan{
     color: cyan;
+}
+
+.phototim-description{
+    font-size: 12px;
 }
 
 table{
