@@ -1,11 +1,25 @@
+
+
 header{
-    height: 175px;
+    height: 100px;
     background-color: #559ffa;
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
+    background-size: 25%;
+    display: flex;
+    align-items: flex-end;
 }
 
 #logo{
-    width: 300px;
-    margin-top: 87px;
+    height: 50%;
+    margin-left: 5%;
 }
+
+.grey{
+    color: grey;
+}
+
+#color-author{
+    color: #66bfe8;
+}
+
