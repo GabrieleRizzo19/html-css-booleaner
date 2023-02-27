@@ -2,6 +2,7 @@
 
 header{
     height: 100px;
+    width: 100%;
     background-color: #559ffa;
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
@@ -16,7 +17,6 @@ header{
 }
 
 #title{
-    margin-top: ;
     font-size: 35px;
     font-weight: bolder;}
 
@@ -24,7 +24,29 @@ header{
     color: grey;
 }
 
-#color-author{
-    color: #66bfe8;
+#date{
+    font-size: 12px;
 }
 
+#cyan{
+    color: cyan;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead{
+    text-align: left;
+    background-color: #34a7e0;
+    color: white;
+}
+
+.row-25{
+    width: 25%;
+}
+
+#color-row{
+    background-color: #b1e3f0;
+}
