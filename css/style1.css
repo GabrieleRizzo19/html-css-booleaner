@@ -50,3 +50,29 @@ thead{
 #color-row{
     background-color: #b1e3f0;
 }
+
+#interest{
+    font-weight: bold;
+}
+
+.foto{
+    width: 311px;
+    height: 207px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#photo1{
+    background-image: url(../img/monitor.jpg);
+}
+
+#photo2{
+    background-image: url(../img/graph.jpg);
+}
+
+.photo-title{
+    margin-left: 5%;
+    margin-top: 25%;
+
+}
